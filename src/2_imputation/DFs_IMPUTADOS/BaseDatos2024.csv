@@ -1,0 +1,220 @@
+Classification,Status2,New_code,Relative_path,Variable,Scale_Factor,Unit,Latencia
+,OK,pp_f_gfs_pp_mean_b_none_d1_p0d,forecasted/pp_f_gfs_pp_mean_b_none_d1_p0d.csv,Basin mean daily precipitation (1 - 24 h),10.0,mm,p0d
+,OK,pp_f_gfs_pp_mean_b_none_d1_p1d,forecasted/pp_f_gfs_pp_mean_b_none_d1_p1d.csv,Basin mean daily precipitation at forecast day 1 (25 - 48 h),10.0,mm,p0d
+,OK,pp_f_gfs_pp_mean_b_none_d1_p2d,forecasted/pp_f_gfs_pp_mean_b_none_d1_p2d.csv,Basin mean daily precipitation at forecast day 2,10.0,mm,p0d
+,OK,pp_f_gfs_pp_mean_b_none_d1_p3d,forecasted/pp_f_gfs_pp_mean_b_none_d1_p3d.csv,Basin mean daily precipitation at forecast day 3,10.0,mm,p0d
+,OK,pp_f_gfs_pp_mean_b_none_d1_p4d,forecasted/pp_f_gfs_pp_mean_b_none_d1_p4d.csv,Basin mean daily precipitation at forecast day 4,10.0,mm,p0d
+Precipitation,OK,pp_f_gfs_pp_max_b_none_d1_p0d,forecasted/pp_f_gfs_pp_max_b_none_d1_p0d.csv,Basin maximum daily precipitation,10.0,mm,p0d
+,OK,pp_f_gfs_pp_max_b_none_d1_p1d,forecasted/pp_f_gfs_pp_max_b_none_d1_p1d.csv,Basin maximum daily precipitation at forecast day 1,10.0,mm,p0d
+,OK,pp_f_gfs_pp_max_b_none_d1_p2d,forecasted/pp_f_gfs_pp_max_b_none_d1_p2d.csv,Basin maximum daily precipitation at forecast day 2,10.0,mm,p0d
+,OK,pp_f_gfs_pp_max_b_none_d1_p3d,forecasted/pp_f_gfs_pp_max_b_none_d1_p3d.csv,Basin maximum daily precipitation at forecast day 3,10.0,mm,p0d
+,OK,pp_f_gfs_pp_max_b_none_d1_p4d,forecasted/pp_f_gfs_pp_max_b_none_d1_p4d.csv,Basin maximum daily precipitation at forecast day 4,10.0,mm,p0d
+,OK,pp_o_imerg_pp_mean_b_none_d1_p0d,observed/pp_o_imerg_pp_mean_b_none_d1_p0d.csv,Basin Mean Daily Precipitation,10.0,mm,m1d
+,OK,pp_o_pdir_pp_mean_b_none_d1_p0d,observed/pp_o_pdir_pp_mean_b_none_d1_p0d.csv,Basin Mean Daily Precipitation,10.0,mm,m1d
+,OK,pp_o_era5_pp_mean_b_none_d1_p0d,observed/pp_o_era5_pp_mean_b_none_d1_p0d.csv,Basin Mean Daily Precipitation,100.0,mm,m5d
+,OK,snw_o_modis_sca_tot_n_none_d1_p0d,observed/snw_o_modis_sca_tot_n_none_d1_p0d.csv,Snow Cover Fraction over the north slopes of the basin,1.0,%,p0d
+Snowpack,OK,snw_o_modis_sca_tot_s_none_d1_p0d,observed/snw_o_modis_sca_tot_s_none_d1_p0d.csv,Snow Cover Fraction over the south slopes of the basin,1.0,%,p0d
+,OK,snw_o_era5_snr_mean_b_none_d1_p0d,observed/snw_o_era5_snr_mean_b_none_d1_p0d.csv,Mean Snow density oiver snowy pixels,10000.0,kg/m3,m5d
+,OK,snw_o_era5_snd_mean_b_none_d1_p0d,observed/snw_o_era5_snd_mean_b_none_d1_p0d.csv,Snow depth,10000.0,m,m5d
+,OK,snw_o_era5_sca_mean_b_none_d1_p0d,observed/snw_o_era5_sca_mean_b_none_d1_p0d.csv,Snow cover,10000.0,Frac,m5d
+,OK,snw_o_era5_sna_mean_b_none_d1_p0d,observed/snw_o_era5_sna_mean_b_none_d1_p0d.csv,Snow albedo,10000.0,Frac,m5d
+,OK,atm_f_gfs_uw_mean_b_none_d1_p0d,forecasted/atm_f_gfs_uw_mean_b_none_d1_p0d.csv,Basin mean u-wind 10 m component,10.0,m/s,p0d
+,OK,atm_f_gfs_uw_mean_b_none_d1_p1d,forecasted/atm_f_gfs_uw_mean_b_none_d1_p1d.csv,Basin mean u-wind 10 m component,10.0,m/s,p0d
+,OK,atm_f_gfs_uw_mean_b_none_d1_p2d,forecasted/atm_f_gfs_uw_mean_b_none_d1_p2d.csv,Basin mean u-wind 10 m component,10.0,m/s,p0d
+,OK,atm_f_gfs_uw_mean_b_none_d1_p3d,forecasted/atm_f_gfs_uw_mean_b_none_d1_p3d.csv,Basin mean u-wind 10 m component,10.0,m/s,p0d
+,OK,atm_f_gfs_uw_mean_b_none_d1_p4d,forecasted/atm_f_gfs_uw_mean_b_none_d1_p4d.csv,Basin mean u-wind 10 m component,10.0,m/s,p0d
+,OK,atm_f_gfs_vw_mean_b_none_d1_p0d,forecasted/atm_f_gfs_vw_mean_b_none_d1_p0d.csv,Basin mean v-wind 10 m component,10.0,m/s,p0d
+Atmospheric Variables,OK,atm_f_gfs_vw_mean_b_none_d1_p1d,forecasted/atm_f_gfs_vw_mean_b_none_d1_p1d.csv,Basin mean v-wind 10 m component,10.0,m/s,p0d
+,OK,atm_f_gfs_vw_mean_b_none_d1_p2d,forecasted/atm_f_gfs_vw_mean_b_none_d1_p2d.csv,Basin mean v-wind 10 m component,10.0,m/s,p0d
+,OK,atm_f_gfs_vw_mean_b_none_d1_p3d,forecasted/atm_f_gfs_vw_mean_b_none_d1_p3d.csv,Basin mean v-wind 10 m component,10.0,m/s,p0d
+,OK,atm_f_gfs_vw_mean_b_none_d1_p4d,forecasted/atm_f_gfs_vw_mean_b_none_d1_p4d.csv,Basin mean v-wind 10 m component,10.0,m/s,p0d
+,OK,atm_f_gfs_gh_mean_b_none_d1_p0d,forecasted/atm_f_gfs_gh_mean_b_none_d1_p0d.csv,Basin mean geopotential height at 500 hPa,1.0,m,p0d
+,OK,atm_f_gfs_gh_mean_b_none_d1_p1d,forecasted/atm_f_gfs_gh_mean_b_none_d1_p1d.csv,Basin mean geopotential height at 500 hPa,1.0,m,p0d
+,OK,atm_f_gfs_gh_mean_b_none_d1_p2d,forecasted/atm_f_gfs_gh_mean_b_none_d1_p2d.csv,Basin mean geopotential height at 500 hPa,1.0,m,p0d
+,OK,atm_f_gfs_gh_mean_b_none_d1_p3d,forecasted/atm_f_gfs_gh_mean_b_none_d1_p3d.csv,Basin mean geopotential height at 500 hPa,1.0,m,p0d
+,OK,atm_f_gfs_gh_mean_b_none_d1_p4d,forecasted/atm_f_gfs_gh_mean_b_none_d1_p4d.csv,Basin mean geopotential height at 500 hPa,1.0,m,p0d
+,OK,atm_o_era5_pres_mean_b_none_d1_p0d,observed/atm_o_era5_pres_mean_b_none_d1_p0d.csv,Basin mean surface pressure,10.0,Pa,m5d
+,OK,atm_o_era5_z_mean_b_none_d1_p0d,observed/atm_o_era5_z_mean_b_none_d1_p0d.csv,Basin mean geopotential height at 500 hPa,10.0,m,m5d
+,OK,atm_o_era5_uw_mean_b_none_d1_p0d,observed/atm_o_era5_uw_mean_b_none_d1_p0d.csv,Basin mean u-wind 10 m component,10.0,m/s,m5d
+,OK,atm_o_era5_vw_mean_b_none_d1_p0d,observed/atm_o_era5_vw_mean_b_none_d1_p0d.csv,Basin mean v-wind 10 m component,10.0,m/s,m5d
+,OK,awc_f_gfs_rh_mean_b_none_d1_p0d,forecasted/awc_f_gfs_rh_mean_b_none_d1_p0d.csv,Mean basin relative humidity at 2m,10.0,%,p0d
+,OK,awc_f_gfs_rh_mean_b_none_d1_p1d,forecasted/awc_f_gfs_rh_mean_b_none_d1_p1d.csv,Mean basin relative humidity at 2m,10.0,%,p0d
+Atmospheric Water Content,OK,awc_f_gfs_rh_mean_b_none_d1_p2d,forecasted/awc_f_gfs_rh_mean_b_none_d1_p2d.csv,Mean basin relative humidity at 2m,10.0,%,p0d
+,OK,awc_f_gfs_rh_mean_b_none_d1_p3d,forecasted/awc_f_gfs_rh_mean_b_none_d1_p3d.csv,Mean basin relative humidity at 2m,10.0,%,p0d
+,OK,awc_f_gfs_rh_mean_b_none_d1_p4d,forecasted/awc_f_gfs_rh_mean_b_none_d1_p4d.csv,Mean basin relative humidity at 2m,10.0,%,p0d
+,OK,awc_o_era5_rh_mean_b_none_d1_p0d,observed/awc_o_era5_rh_mean_b_none_d1_p0d.csv,Mean basin relative humidity at 2m,10.0,%,m5d
+,OK,gl_s_dga_ga_tot_n_none_c_c,static/static.csv,North facing glaciers area,1.0,m2,Constant
+,OK,gl_s_dga_rgla_tot_n_none_c_c,static/static.csv,North facing rock glaciers area,1.0,m2,Constant
+,OK,gl_s_dga_gta_tot_n_none_c_c,static/static.csv,North facing glacierets area,1.0,m2,Constant
+,OK,gl_s_dga_gwe_tot_n_none_c_c,static/static.csv,North facing glaciers water equivalent,1.0,m3,Constant
+,OK,gl_s_dga_rglwe_tot_n_none_c_c,static/static.csv,North facing rock glaciers water equivalent,1.0,m3,Constant
+,OK,gl_s_dga_gtwe_tot_n_none_c_c,static/static.csv,North facing glacierets water equivalent,1.0,m3,Constant
+,OK,gl_s_dga_galt_mean_n_none_c_c,static/static.csv,North facing glaciers mean altitude,1.0,m a.s.l.,Constant
+,OK,gl_s_dga_rglalt_mean_n_none_c_c,static/static.csv,North facing rock glaciers mean altitude,1.0,m a.s.l.,Constant
+Glaciers,OK,gl_s_dga_gtalt_mean_n_none_c_c,static/static.csv,North facing glacierets mean altitude,1.0,m a.s.l.,Constant
+,OK,gl_s_dga_ga_tot_s_none_c_c,static/static.csv,South facing glaciers area,1.0,m2,Constant
+,OK,gl_s_dga_rgla_tot_s_none_c_c,static/static.csv,South facing rock glaciers area,1.0,m2,Constant
+,OK,gl_s_dga_gta_tot_s_none_c_c,static/static.csv,South facing glacierets area,1.0,m2,Constant
+,OK,gl_s_dga_gwe_tot_s_none_c_c,static/static.csv,South facing glaciers water equivalent,1.0,m3,Constant
+,Ok,gl_s_dga_rglwe_tot_s_none_c_c,static/static.csv,South facing rock glaciers water equivalent,1.0,m3,Constant
+,Ok,gl_s_dga_gtwe_tot_s_none_c_c,static/static.csv,South facing glacierets water equivalent,1.0,m3,Constant
+,OK,gl_s_dga_galt_mean_s_none_c_c,static/static.csv,South facing glaciers mean altitude,1.0,m a.s.l.,Constant
+,OK,gl_s_dga_rglalt_mean_s_none_c_c,static/static.csv,South facing rock glaciers mean altitude,1.0,m a.s.l.,Constant
+,OK,gl_s_dga_gtalt_mean_s_none_c_c,static/static.csv,South facing glacierets mean altitude,1.0,m a.s.l.,Constant
+,OK,tmp_o_era5_tmp_mean_b_none_d1_p0d,observed/tmp_o_era5_tmp_mean_b_none_d1_p0d.csv,Basin mean daily-mean temperature at 2m,10.0,ºC,m5d
+,OK,tmp_o_era5_tmin_mean_b_none_d1_p0d,observed/tmp_o_era5_tmin_mean_b_none_d1_p0d.csv,Basin mean daily-max temperature at 2m,10.0,ºC,m5d
+,OK,tmp_o_era5_tmax_mean_b_none_d1_p0d,observed/tmp_o_era5_tmax_mean_b_none_d1_p0d.csv,Basin mean daily-min temperature at 2m,10.0,ºC,m5d
+,OK,tmp_o_era5_dew_mean_b_none_d1_p0d,observed/tmp_o_era5_dew_mean_b_none_d1_p0d.csv,Basin mean daily-mean dewpoint temperature at 2m,10.0,ºC,m5d
+,OK,tmp_f_gfs_tmp_max_b_none_d1_p0d,forecasted/tmp_f_gfs_tmp_max_b_none_d1_p0d.csv,Basin mean of daily maximum temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_max_b_none_d1_p1d,forecasted/tmp_f_gfs_tmp_max_b_none_d1_p1d.csv,Basin mean of daily maximum temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_max_b_none_d1_p2d,forecasted/tmp_f_gfs_tmp_max_b_none_d1_p2d.csv,Basin mean of daily maximum temperature at 2m,10.0,ºC,p0d
+Temperature,OK,tmp_f_gfs_tmp_max_b_none_d1_p3d,forecasted/tmp_f_gfs_tmp_max_b_none_d1_p3d.csv,Basin mean of daily maximum temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_max_b_none_d1_p4d,forecasted/tmp_f_gfs_tmp_max_b_none_d1_p4d.csv,Basin mean of daily maximum temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_min_b_none_d1_p0d,forecasted/tmp_f_gfs_tmp_min_b_none_d1_p0d.csv,Basin mean of daily minimum temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_min_b_none_d1_p1d,forecasted/tmp_f_gfs_tmp_min_b_none_d1_p1d.csv,Basin mean of daily minimum temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_min_b_none_d1_p2d,forecasted/tmp_f_gfs_tmp_min_b_none_d1_p2d.csv,Basin mean of daily minimum temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_min_b_none_d1_p3d,forecasted/tmp_f_gfs_tmp_min_b_none_d1_p3d.csv,Basin mean of daily minimum temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_min_b_none_d1_p4d,forecasted/tmp_f_gfs_tmp_min_b_none_d1_p4d.csv,Basin mean of daily minimum temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_mean_b_none_d1_p0d,forecasted/tmp_f_gfs_tmp_mean_b_none_d1_p0d.csv,Basin mean of daily mean temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_mean_b_none_d1_p1d,forecasted/tmp_f_gfs_tmp_mean_b_none_d1_p1d.csv,Basin mean of daily mean temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_mean_b_none_d1_p2d,forecasted/tmp_f_gfs_tmp_mean_b_none_d1_p2d.csv,Basin mean of daily mean temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_mean_b_none_d1_p3d,forecasted/tmp_f_gfs_tmp_mean_b_none_d1_p3d.csv,Basin mean of daily mean temperature at 2m,10.0,ºC,p0d
+,OK,tmp_f_gfs_tmp_mean_b_none_d1_p4d,forecasted/tmp_f_gfs_tmp_mean_b_none_d1_p4d.csv,Basin mean of daily mean temperature at 2m,10.0,ºC,p0d
+,OK,et_o_era5_eta_mean_b_none_d1_p0d,observed/et_o_era5_eta_mean_b_none_d1_p0d.csv,Basin mean of daily actual evapotranspiration,10000.0,mm,m5d
+Evapotranspiration,OK,et_o_era5_eto_mean_b_none_d1_p0d,observed/et_o_era5_eto_mean_b_none_d1_p0d.csv,Basin mean of daily potential evapotranspiration,10000.0,mm,m5d
+,OK,sf_s_isric_socc_mean_b_none_c_c,static/static.csv,Mean basin soil organic carbon content,10.0,dk/kg,
+,OK,sf_s_isric_socc_p10_b_none_c_c,static/static.csv,Soil organic carbon content at percentile 10th,10.0,dk/kg,
+,OK,sf_s_isric_socc_p25_b_none_c_c,static/static.csv,Soil organic carbon content at percentile 25th,10.0,dk/kg,
+,OK,sf_s_isric_socc_p50_b_none_c_c,static/static.csv,Soil organic carbon content at percentile 50th,10.0,dk/kg,
+,OK,sf_s_isric_socc_p75_b_none_c_c,static/static.csv,Soil organic carbon content at percentile 75th,10.0,dk/kg,
+,OK,sf_s_isric_socc_p90_b_none_c_c,static/static.csv,Soil organic carbon content at percentile 90th,10.0,dk/kg,
+,OK,sf_s_isric_sbd_mean_b_none_c_c,static/static.csv,Mean basin bulk density,100.0,cg/cm^3,
+,OK,sf_s_isric_sbd_p10_b_none_c_c,static/static.csv,Bulk density at percentile 10th,100.0,cg/cm^3,
+,Ok,sf_s_isric_sbd_p25_b_none_c_c,static/static.csv,Bulk density at percentile 25th,100.0,cg/cm^3,
+,Ok,sf_s_isric_sbd_p50_b_none_c_c,static/static.csv,Bulk density at percentile 50th,100.0,cg/cm^3,
+,OK,sf_s_isric_sbd_p75_b_none_c_c,static/static.csv,Bulk density at percentile 75th,100.0,cg/cm^3,
+,OK,sf_s_isric_sbd_p90_b_none_c_c,static/static.csv,Bulk density at percentile 90th,100.0,cg/cm^3,
+,OK,sf_s_isric_scf_mean_b_none_c_c,static/static.csv,Mean basin coarse fragments content,10.0,cm^3/dm^3 (vol‰),
+,OK,sf_s_isric_scf_p10_b_none_c_c,static/static.csv,Coarse fragments content at percentile 10th,10.0,cm^3/dm^3 (vol‰),
+,OK,sf_s_isric_scf_p25_b_none_c_c,static/static.csv,Coarse fragments content at percentile 25th,10.0,cm^3/dm^3 (vol‰),
+,OK,sf_s_isric_scf_p50_b_none_c_c,static/static.csv,Coarse fragments content at percentile 50th,10.0,cm^3/dm^3 (vol‰),
+,OK,sf_s_isric_scf_p75_b_none_c_c,static/static.csv,Coarse fragments content at percentile 75th,10.0,cm^3/dm^3 (vol‰),
+,OK,sf_s_isric_scf_p90_b_none_c_c,static/static.csv,Coarse fragments content at percentile 90th,10.0,cm^3/dm^3 (vol‰),
+,OK,sf_s_isric_sand_mean_b_none_c_c,static/static.csv,Mean basin sand content,10.0,g/kg,
+Soil features,OK,sf_s_isric_sand_p10_b_none_c_c,static/static.csv,Sand content at percentile 10th,10.0,g/kg,
+,OK,sf_s_isric_sand_p25_b_none_c_c,static/static.csv,Sand content at percentile 25th,10.0,g/kg,
+,OK,sf_s_isric_sand_p50_b_none_c_c,static/static.csv,Sand content at percentile 50th,10.0,g/kg,
+,OK,sf_s_isric_sand_p75_b_none_c_c,static/static.csv,Sand content at percentile 75th,10.0,g/kg,
+,OK,sf_s_isric_sand_p90_b_none_c_c,static/static.csv,Sand content at percentile 90th,10.0,g/kg,
+,OK,sf_s_isric_silt_mean_b_none_c_c,static/static.csv,Mean basin silt content,10.0,g/kg,
+,OK,sf_s_isric_silt_p10_b_none_c_c,static/static.csv,Silt content at percentile 10th,10.0,g/kg,
+,OK,sf_s_isric_silt_p25_b_none_c_c,static/static.csv,Silt content at percentile 25th,10.0,g/kg,
+,OK,sf_s_isric_silt_p50_b_none_c_c,static/static.csv,Silt content at percentile 50th,10.0,g/kg,
+,OK,sf_s_isric_silt_p75_b_none_c_c,static/static.csv,Silt content at percentile 75th,10.0,g/kg,
+,OK,sf_s_isric_silt_p90_b_none_c_c,static/static.csv,Silt content at percentile 90th,10.0,g/kg,
+,OK,sf_s_isric_clay_mean_b_none_c_c,static/static.csv,Mean basin clay content,10.0,g/kg,
+,OK,sf_s_isric_clay_p10_b_none_c_c,static/static.csv,Clay content at percentile 10th,10.0,g/kg,
+,OK,sf_s_isric_clay_p25_b_none_c_c,static/static.csv,Clay content at percentile 25th,10.0,g/kg,
+,OK,sf_s_isric_clay_p50_b_none_c_c,static/static.csv,Clay content at percentile 50th,10.0,g/kg,
+,OK,sf_s_isric_clay_p75_b_none_c_c,static/static.csv,Clay content at percentile 75th,10.0,g/kg,
+,OK,sf_s_isric_clay_p90_b_none_c_c,static/static.csv,Clay content at percentile 90th,10.0,g/kg,
+,OK,sf_s_ornl_brd_p10_b_none_c_c,static/static.csv,Mean basin bed rock depth,100.0,m,
+,OK,sf_s_ornl_brd_p25_b_none_c_c,static/static.csv,Bed rock deep at percentile 10th,100.0,m,
+,OK,sf_s_ornl_brd_p50_b_none_c_c,static/static.csv,Bed rock deep at percentile 25th,100.0,m,
+,OK,sf_s_ornl_brd_p75_b_none_c_c,static/static.csv,Bed rock deep at percentile 50th,100.0,m,
+,OK,sf_s_ornl_brd_p90_b_none_c_c,static/static.csv,Bed rock deep at percentile 75th,100.0,m,
+,OK,sf_s_ornl_brd_mean_b_none_c_c,static/static.csv,Bed rock deep at percentile 90th,100.0,m,
+,OK,sf_s_ornl_brd_tot_p_none_c_c,static/static.csv,Gauge point bed rock deep,1.0,m,
+,OK,sf_s_glhym_perm_mean_b_none_c_c,static/static.csv,Mean basin soil permeability,1.0,cm/s,
+,OK,sf_s_glhym_por_mean_b_none_c_c,static/static.csv,Mean basin soil porosity,1.0,%,
+,OK,swc_o_era5_sm_mean_b_none_d1_p0d,observed/swc_o_era5_sm_mean_b_none_d1_p0d.csv,Basin mean volumetric soil water content 0-2.89m,1000.0,m3/m3,m5d
+Soil water content,PEND,swc_o_grace_gwc_mean_b_none_d1_p0d,observed/swc_o_grace_gwc_mean_b_none_d1_p0d.csv,Basin total groundwater content,,cm,
+,PEND,swc_o_grace_tws_mean_b_none_d1_p0d,observed/swc_o_grace_tws_mean_b_none_d1_p0d.csv,TWS (terrestrial water storage),,cm,1 month
+,OK,top_s_cam_area_tot_b_none_c_c,static/static.csv,Total basin area,10.0,Km2,Constant
+,OK,top_s_cam_elev_mean_b_none_c_c,static/static.csv,Mean basin elevation,1.0,m a.s.l.,Constant
+,OK,top_s_cam_elev_p50_b_none_c_c,static/static.csv,Median basin elevation,1.0,m a.s.l.,Constant
+,OK,top_s_cam_elev_max_b_none_c_c,static/static.csv,Maximum basin elevation,1.0,m a.s.l.,Constant
+Topography,OK,top_s_cam_elev_min_b_none_c_c,static/static.csv,Minimum basin elevation,1.0,m a.s.l.,Constant
+,OK,top_s_cam_slo_mean_b_none_c_c,static/static.csv,Basin mean slope percentage,10.0,%,Constant
+,OK,top_s_dem_com_none_b_none_c_c,static/static.csv,Basin compacity index,1.0,adimensional,Constant
+,OK,top_s_dem_cc_none_b_none_c_c,static/static.csv,Basin Miller's circularity index,1.0,adimensional,Constant
+,OK,top_s_dem_ti_none_b_none_c_c,static/static.csv,Mean Basin topographic index,1.0,adimensional,Constant
+,OK,veg_o_modis_lai_mean_b_none_d1_p0d,observed/veg_o_modis_lai_mean_b_none_d1_p0d.csv,Mean basin LAI,10.0,m2/m2,m11d
+,OK,veg_o_modis_fpar_mean_b_none_d1_p0d,observed/veg_o_modis_fpar_mean_b_none_d1_p0d.csv,Mean basin FPAR,10.0,adimensional,m11d
+Vegetation,OK,veg_o_modis_ndvi_mean_b_none_d1_p0d,observed/veg_o_modis_ndvi_mean_b_none_d1_p0d.csv,Mean basin NDVI,1000.0,adimensional,m20d
+,OK,veg_o_modis_agr_mean_b_none_d1_p0d,observed/veg_o_modis_agr_mean_b_none_d1_p0d.csv,Mean NVDI over agricultural areas,1000.0,adimensional,m20d
+,OK,veg_o_modis_evi_mean_b_none_d1_p0d,observed/veg_o_modis_evi_mean_b_none_d1_p0d.csv,Mean basin EVI,1000.0,adimensional,m20d
+,OK,veg_o_modis_nbr_mean_b_none_d1_p0d,observed/veg_o_modis_nbr_mean_b_none_d1_p0d.csv,Mean basin NBR,1000.0,adimensional,m20d
+,OK,lulc_o_modis_enf_sum_b_none_d1_p0d,observed/lulc_o_modis_enf_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Evergreen Needleleaf Forests class,1000.0,fractional,constant
+,OK,lulc_o_modis_ebf_sum_b_none_d1_p0d,observed/lulc_o_modis_ebf_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Evergreen Broadleaf Forests class,1000.0,fractional,constant
+,OK,lulc_o_modis_dnf_sum_b_none_d1_p0d,observed/lulc_o_modis_dnf_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Deciduous Needleleaf Forest class,1000.0,fractional,constant
+,OK,lulc_o_modis_dbf_sum_b_none_d1_p0d,observed/lulc_o_modis_dbf_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Deciduous Broadleaf Forests class,1000.0,fractional,constant
+,OK,lulc_o_modis_mxf_sum_b_none_d1_p0d,observed/lulc_o_modis_mxf_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Mixed Forests class,1000.0,fractional,constant
+,OK,lulc_o_modis_csh_sum_b_none_d1_p0d,observed/lulc_o_modis_csh_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Mixed Forests class,1000.0,fractional,constant
+,OK,lulc_o_modis_osh_sum_b_none_d1_p0d,observed/lulc_o_modis_osh_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Open Shrublands class,1000.0,fractional,constant
+Land use/Land cover,OK,lulc_o_modis_wsv_sum_b_none_d1_p0d,observed/lulc_o_modis_wsv_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Woody Savannas class,1000.0,fractional,constant
+,OK,lulc_o_modis_svn_sum_b_none_d1_p0d,observed/lulc_o_modis_svn_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Savannas class,1000.0,fractional,constant
+,OK,lulc_o_modis_grs_sum_b_none_d1_p0d,observed/lulc_o_modis_grs_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Grasslands class,1000.0,fractional,constant
+,OK,lulc_o_modis_pwt_sum_b_none_d1_p0d,observed/lulc_o_modis_pwt_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Permanent Wetlands class,1000.0,fractional,constant
+,OK,lulc_o_modis_crp_sum_b_none_d1_p0d,observed/lulc_o_modis_crp_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Croplands class,1000.0,fractional,constant
+,OK,lulc_o_modis_urb_sum_b_none_d1_p0d,observed/lulc_o_modis_urb_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Urban and Built-up Lands class,1000.0,fractional,constant
+,OK,lulc_o_modis_cvm_sum_b_none_d1_p0d,observed/lulc_o_modis_cvm_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Cropland/Natural Vegetation Mosaics class,1000.0,fractional,constant
+,OK,lulc_o_modis_snw_sum_b_none_d1_p0d,observed/lulc_o_modis_snw_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Permanent Snow and Ice class,1000.0,fractional,constant
+,OK,lulc_o_modis_brn_sum_b_none_d1_p0d,observed/lulc_o_modis_brn_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Barren class,1000.0,fractional,constant
+,OK,lulc_o_modis_wat_sum_b_none_d1_p0d,observed/lulc_o_modis_wat_sum_b_none_d1_p0d.csv,MODIS LULC / IGBP Water Bodies class,1000.0,fractional,constant
+,PEND,lulc_s_mma_wba_sum_b_none_c_c,static/static.csv,Water bodies area,1.0,m2,constant
+,PEND,lulc_s_mma_rba_sum_b_none_c_c,static/static.csv,River bed area,1.0,m2,constant
+,PEND,lulc_s_mma_wta_sum_b_none_c_c,static/static.csv,Wetlands area,1.0,m2,constant
+,OK,hi_s_cam_sr_tot_b_none_c_c,static/static.csv,Basin surface water rights,1000.0,m3 s-1,constant
+Human Intervention,OK,hi_s_cam_gwr_tot_b_none_c_c,static/static.csv,Basin groundwater rights,1000.0,m3 s-1,constant
+,PEND,hi_o_gww_rs_tot_b_none_d1_p0d,observed/hi_o_gww_rs_tot_b_none_d1_p0d.csv,Reservoir surface,100.0,Km2,p0d
+Index,OK,idx_s_cam_arcr2_tot_b_none_c_c,static/static.csv,Aridity_cr2met (1979-2010),100.0,adimensional,constant
+,,centroides,centroides/centroides.csv,,,,
+,,caudal_max_p0d,caudal/caudal_max_p0d.csv,,,,
+,,caudal_max_p1d,caudal/caudal_max_p1d.csv,,,,
+,,caudal_max_p2d,caudal/caudal_max_p2d.csv,,,,
+,,caudal_max_p3d,caudal/caudal_max_p3d.csv,,,,
+,,caudal_max_p4d,caudal/caudal_max_p4d.csv,,,,
+,,caudal_mean_p0d,caudal/caudal_mean_p0d.csv,,,,
+,,caudal_mean_p1d,caudal/caudal_mean_p1d.csv,,,,
+,,caudal_mean_p2d,caudal/caudal_mean_p2d.csv,,,,
+,,caudal_mean_p3d,caudal/caudal_mean_p3d.csv,,,,
+,,caudal_mean_p4d,caudal/caudal_mean_p4d.csv,,,,
+,,caudal_mask2_p0d,caudal/caudal_mask2_p0d.csv,,,,
+,,caudal_mask2_p1d,caudal/caudal_mask2_p1d.csv,,,,
+,,caudal_mask2_p2d,caudal/caudal_mask2_p2d.csv,,,,
+,,caudal_mask2_p3d,caudal/caudal_mask2_p3d.csv,,,,
+,,caudal_mask2_p4d,caudal/caudal_mask2_p4d.csv,,,,
+,,top_s_cam_lon_mean_b_none_c_c,static/static.csv,,,,
+,,top_s_cam_lat_mean_b_none_c_c,static/static.csv,,,,
+,,top_s_dga_lat_none_p_none_c_c,static/static.csv,,,,
+,,top_s_dga_lon_none_p_none_c_c,static/static.csv,,,,
+,,top_s_cam_lat_none_p_none_c_c,static/static.csv,,,,
+,,top_s_cam_lon_none_p_none_c_c,static/static.csv,,,,
+,,pp_o_era5_maxpp_mean_b_none_d1_p0d,observed/pp_o_era5_maxpp_mean_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_brn_frac_b_none_d1_p0d,observed/lulc_o_modis_brn_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_cvm_frac_b_none_d1_p0d,observed/lulc_o_modis_cvm_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_csh_frac_b_none_d1_p0d,observed/lulc_o_modis_csh_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_grs_frac_b_none_d1_p0d,observed/lulc_o_modis_grs_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_urb_frac_b_none_d1_p0d,observed/lulc_o_modis_urb_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_pwt_frac_b_none_d1_p0d,observed/lulc_o_modis_pwt_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_crp_frac_b_none_d1_p0d,observed/lulc_o_modis_crp_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_snw_frac_b_none_d1_p0d,observed/lulc_o_modis_snw_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_wsv_frac_b_none_d1_p0d,observed/lulc_o_modis_wsv_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_enf_frac_b_none_d1_p0d,observed/lulc_o_modis_enf_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_ebf_frac_b_none_d1_p0d,observed/lulc_o_modis_ebf_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_wat_frac_b_none_d1_p0d,observed/lulc_o_modis_wat_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_svn_frac_b_none_d1_p0d,observed/lulc_o_modis_svn_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_dnf_frac_b_none_d1_p0d,observed/lulc_o_modis_dnf_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_dbf_frac_b_none_d1_p0d,observed/lulc_o_modis_dbf_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_osh_frac_b_none_d1_p0d,observed/lulc_o_modis_osh_frac_b_none_d1_p0d.csv,,,,
+,,lulc_o_modis_mxf_frac_b_none_d1_p0d,observed/lulc_o_modis_mxf_frac_b_none_d1_p0d.csv,,,,
+,,snw_o_era5_swe_mean_b_none_d1_m5d,observed/snw_o_era5_swe_mean_b_none_d1_m5d.csv,,,,
+,,gl_s_dga_gta_tot_sum_none_c_c,static/static.csv,,,,
+,,pp_f_gfs_plen_mean_b_none_d1_p0d,forecasted/pp_f_gfs_plen_mean_b_none_d1_p0d.csv,,,,
+,,pp_f_gfs_plen_mean_b_none_d1_p1d,forecasted/pp_f_gfs_plen_mean_b_none_d1_p1d.csv,,,,
+,,pp_f_gfs_plen_mean_b_none_d1_p2d,forecasted/pp_f_gfs_plen_mean_b_none_d1_p2d.csv,,,,
+,,pp_f_gfs_plen_mean_b_none_d1_p3d,forecasted/pp_f_gfs_plen_mean_b_none_d1_p3d.csv,,,,
+,,pp_f_gfs_plen_mean_b_none_d1_p4d,forecasted/pp_f_gfs_plen_mean_b_none_d1_p4d.csv,,,,
+,,pp_o_era5_plen_mean_b_none_d1_p0d,observed/pp_o_era5_plen_mean_b_none_d1_p0d.csv,,,,
+,,p_mean_cr2met_1979_2010,static/p_mean_cr2met_1979_2010.csv,,,,

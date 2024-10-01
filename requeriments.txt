@@ -1,0 +1,7 @@
+hidrocl @ git+https://github.com/MeteorologiaUV/HidroCL-OOP/@a0cae821f53b9658f448138b41e2a03f8f004155
+earthengine-api==1.1.1
+eepackages==0.28.0
+scipy==1.14.1
+scikit-learn==1.5.2
+tensorflow==2.14.0
+CRPS==2.0.4

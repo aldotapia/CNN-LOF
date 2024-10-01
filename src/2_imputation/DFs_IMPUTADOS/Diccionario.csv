@@ -1,0 +1,73 @@
+Group;;Type;;Source;;Variable;;Spatial Aggregation;;Coverage;;Temporal Aggregation;;Period;;ValidTime;
+Description;Value;Description;Value;Description;Value;Description;Value;Description;Value;Description;Value;Description;Value;Description;Value;Description;Value
+Precipitation;pp;Static;s;GFS;gfs;Agriculture NDVI;agr;Mean;mean;Basin;b;Mean;mean;Daily;d1;Forecast day;p0d
+Snow;snw;Observed;o;GLDAS;gldas;Aridity_cr2met_1979_2010;arcr2;Median;p50;Point;p;Sum;sum;Monthly;m;Day+1;p1d
+Atmospheric water content;awc;Forecasted ;f;IMERG;imerg;Area;area;Maximum;max;Facing north;n;None;none;Constant;c;Day+2;p2d
+Glacier;gl;;;MODIS;modis;Bedrock deep;brd;Minimum;min;Facing south;s;;;Daily+1;d2;Day+3;p3d
+Land use / Land cover;lulc;;;PERSIANN;pers;Miller circularity coefficient;cc;Percentile 10th;p10;;;;;Daily+2;d3;Day+4;p4d
+Temperature;tmp;;;CAMELS;cam;Soil clay content;clay;Percentile 25th;p25;;;;;Daily+3;d4;Day+5;p5d
+Evapotranspiration;et;;;DGA;dga;Compacity;com;Percentile 75th;p75;;;;;Daily+7;d8;Day-1;m1d
+Soil features;sf;;;GRACE;grace;Dam area;da;Percentile 90th;p90;;;;;;;Day-2;m2d
+Soil water content;swc;;;NASA DEM;dem;Dam construction year;dcy;Total;tot;;;;;;;Day-3;m3d
+Topography;top;;;GLHYMPS;glhym;Dam location;dl;None;none;;;;;;;Day-4;m4d
+Vegetation;veg;;;ISRIC;isric;Dew point temperature;dpt;;;;;;;;;Day-5;m5d
+Human intervention;hi;;;ORNL;ornl;Dam starting year;dsy;;;;;;;;;Day-16;m16d
+Index;idx;;;ESA;esa;Dam volume;dv;;;;;;;;;Month-1;m1m
+Atmospheric variables;atm;;;ERA5;era5;Elevation;elev;;;;;;;;;Month-2;m2m
+;;;;Miniterio de Medio Ambiente;mma;Actual Evapotraspiration;eta;;;;;;;;;Year-1;m1y
+;;;;UZH;uzh;Reference evapotranspiration;eto;;;;;;;;;Year-2;m2y
+;;;;Global Water Watch;gww;Enhanced Vegetation Index;evi;;;;;;;;;Constant;c
+;;;;PERSIANN CDR;pcdr;Fraction of absorbed photosynthetically active radiation;fpar;;;;;;;;;;
+;;;;;;Glacier area;ga;;;;;;;;;;
+;;;;;;Glacier mean altitude;galt;;;;;;;;;;
+;;;;;;Glacieret area;gta;;;;;;;;;;
+;;;;;;Glacieret mean altitude;gtalt;;;;;;;;;;
+;;;;;;Glacieret Water Equivalent;gtwe;;;;;;;;;;
+;;;;;;Glacier Water Equivalent;gwe;;;;;;;;;;
+;;;;;;Groundwater rights;gwr;;;;;;;;;;
+;;;;;;Qty of precipitation in hours;hpp;;;;;;;;;;
+;;;;;;Relative air humidity;hr;;;;;;;;;;
+;;;;;;Leaf Area Index;lai;;;;;;;;;;
+;;;;;;Land Surface Energy Balance;lseb;;;;;;;;;;
+;;;;;;Maximum Daily Precipitaion ;maxpp;;;;;;;;;;
+;;;;;;Maximum temperature;tmax;;;;;;;;;;
+;;;;;;Minimum temperature;tmin;;;;;;;;;;
+;;;;;;Modis soil cover;msc;;;;;;;;;;
+;;;;;;Normalized Burned Ratio;nbr;;;;;;;;;;
+;;;;;;Normalized difference vegetation index;ndvi;;;;;;;;;;
+;;;;;;Net radiation;nrad;;;;;;;;;;
+;;;;;;Soil permeability;perm;;;;;;;;;;
+;;;;;;Soil porosity;por;;;;;;;;;;
+;;;;;;Precipitation;pp;;;;;;;;;;
+;;;;;;Permafrost Zonation Index;pzi;;;;;;;;;;
+;;;;;;Rock glacier area;rgla;;;;;;;;;;
+;;;;;;Rock glacier mean altitude;rglalt;;;;;;;;;;
+;;;;;;Rock Glacier Water Equivalent;rglwe;;;;;;;;;;
+;;;;;;Rivers;riv;;;;;;;;;;
+;;;;;;Reservoir Surface;rs;;;;;;;;;;
+;;;;;;Root soil moisture;rsm;;;;;;;;;;
+;;;;;;Soil sand content;sand;;;;;;;;;;
+;;;;;;Soil bulk density;sbd;;;;;;;;;;
+;;;;;;Snow covered area;sca;;;;;;;;;;
+;;;;;;Soil coarse fragments content;scf;;;;;;;;;;
+;;;;;;Soil silt content;silt;;;;;;;;;;
+;;;;;;Slope;slo;;;;;;;;;;
+;;;;;;Soil moisture;sm;;;;;;;;;;
+;;;;;;Soil organic carbon content;socc;;;;;;;;;;
+;;;;;;Aridity SPEI;spei;;;;;;;;;;
+;;;;;;Streamflow SPI;spi;;;;;;;;;;
+;;;;;;Surface rights;sr;;;;;;;;;;
+;;;;;;Snow water equivalent;swe;;;;;;;;;;
+;;;;;;Thermal amplitude;tamp;;;;;;;;;;
+;;;;;;Thermal amplitude;tamp;;;;;;;;;;
+;;;;;;Topographic index;ti;;;;;;;;;;
+;;;;;;Temperature;tmp;;;;;;;;;;
+;;;;;;Terrestrial Water Storage;tws;;;;;;;;;;
+;;;;;;Vegetation Condition Index;vci;;;;;;;;;;
+;;;;;;Vegetation Status Difference;vsd;;;;;;;;;;
+;;;;;;Water bodies;wbod;;;;;;;;;;
+;;;;;;Wet bulb temperature;wbulb;;;;;;;;;;
+;;;;;;Wetlands;wet;;;;;;;;;;
+;;;;;;Atmospheric water vapor deficit;wvd;;;;;;;;;;
+;;;;;;Zero Degree altitude;zda;;;;;;;;;;
+;;;;;;Location Type: coastal, foothills, altiplano;;;;;;;;;;;
